@@ -1,0 +1,31 @@
+{
+  "Shelves": [
+    {
+      "is_shelf_full": false,
+      "books": [
+        { "author": "Aviv Shikly", "title": "Sports", "num_of_pages": 160 },
+        { "author": "Yosi Vaks", "title": "Movies Home", "num_of_pages": 188 },
+        { "author": "talss", "title": "talss", "num_of_pages": 200 }
+      ]
+    },
+    {
+      "is_shelf_full": false,
+      "books": [
+        { "author": "Arik Moz", "title": "Eagles", "num_of_pages": 230 },
+        { "author": "Lior Dolinski", "title": "Java", "num_of_pages": 196 }
+      ]
+    },
+    {
+      "is_shelf_full": false,
+      "books": [
+        {
+          "author": "Linoy Dahan",
+          "title": "Python The book",
+          "num_of_pages": 150
+        },
+        { "author": "Chen Dahan", "title": "Psychology", "num_of_pages": 190 }
+      ]
+    }
+  ],
+  "Readers": []
+}
